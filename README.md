@@ -59,6 +59,32 @@ TrafficStreemz has three income engines, and this plugin serves all three:
 Each gets its own funnel, training, and prospecting profile — plus a
 combined view inside the TrafficStreemz skin.
 
+## Who this is for
+
+**Network marketers looking for agentic AI systems.** If you've been
+searching for a way to put AI agents to work in your network marketing
+business — whether you're experimenting with OpenClaw, running a Hermes
+agent, working with a Muse agent, or just starting to explore what AI
+can do for your downline — this plugin is the on-ramp. A real agentic
+AI system, open source, built specifically for network marketing.
+
+**Zilara, GotBackup, and My Lead Gen Secret builders.** The plugin ships
+with prospecting profiles for all three TrafficStreemz engines: Zilara
+(Paula Scarcella's Green Organics wellness line), GotBackup (Joel
+Therien's GVO cloud backup), and My Lead Gen Secret's daily lead
+system. One install, three income engines — genuine multiple streams of
+income from a single prospecting machine.
+
+**Network marketers who need a real CRM.** The plugin integrates with
+ContactFlowCRM, a CRM built exclusively for network marketing — not a
+generic sales tool with MLM bolted on. Leads flow in scored and tagged;
+follow-up runs automatically.
+
+**Network marketers doing email outreach.** The installer wires up
+Systeme.io for email automations — integrating Systeme.io with your
+network marketing follow-up so sequences and nurture run without you
+touching them.
+
 ## Follow the build
 
 Brian writes about building this system — what works, what breaks,
