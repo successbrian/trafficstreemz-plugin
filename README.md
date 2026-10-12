@@ -59,6 +59,17 @@ TrafficStreemz has three income engines, and this plugin serves all three:
 Each gets its own funnel, training, and prospecting profile — plus a
 combined view inside the TrafficStreemz skin.
 
+## Follow the build
+
+Brian writes about building this system — what works, what breaks,
+what's next — on his Substack:
+
+**[successbrianhub.substack.com](https://successbrianhub.substack.com)**
+
+Weekly build notes, strategy breakdowns, and the thinking behind every
+piece of this plugin. If you want to understand *why* it's built this
+way, that's where it lives.
+
 ## License
 
 MIT — it's yours. Fork it, improve it, share it.
