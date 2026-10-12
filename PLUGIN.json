@@ -1,0 +1,1 @@
+{"author":"Brian Lathe","description":"AI agentic prospecting system for TrafficStreemz builders (Zilara, GotBackup, My Lead Gen Secret)","homepage":"https://github.com/successbrian/trafficstreemz-plugin","license":"MIT","name":"trafficstreemz","requires":{"python":">=3.10","successbrian-os":">=0.1.0"},"version":"0.1.0"}

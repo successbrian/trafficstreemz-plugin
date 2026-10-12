@@ -1,0 +1,4 @@
+# Local installer state — personal data, never commit
+install/config.json
+__pycache__/
+*.pyc
